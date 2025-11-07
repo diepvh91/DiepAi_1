@@ -1,5 +1,4 @@
-# 💬 Chatbot Anh Lập Trình
-
-Chương trình chatbot được tạo ra từ Anh Lập Trình (https://pyan.vn/)
+# 💬 Chatbot Trợ lý Vũ Hồng Điệp
+Chương trình được tạo bởi Vũ Hồng Điệp - Phó giám đốc trung tâm Phục vụ hành chính công xã Trường Tân
 
 
